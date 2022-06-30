@@ -44,7 +44,7 @@ class InstagramUi extends StatelessWidget {
                   ),
                   CircleAvatar(
                     radius: 20,
-                    backgroundImage: AssetImage('assets/images/first.jpg'),
+                    backgroundImage: AssetImage('assets/images/me1.jpg'),
                   ),
                   SizedBox(
                     width: 10,
@@ -71,7 +71,7 @@ class InstagramUi extends StatelessWidget {
               height: 300,
               width: double.infinity,
               child: Image.asset(
-                'assets/images/first.jpg',
+                'assets/images/me1.jpg',
                 width: double.infinity,
                 height: 300,
                 fit: BoxFit.fill,
